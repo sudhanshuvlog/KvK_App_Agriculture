@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466385896584",
+    "project_id": "kvkapplication",
+    "storage_bucket": "kvkapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466385896584:android:e8c1e0dd79089629a48b3d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466385896584-lsq4lrnoimv9jrs9p63auqpkaai1lgve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLb6P4ZorZa0haMXTi94fbvKMt7w8WYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466385896584-lsq4lrnoimv9jrs9p63auqpkaai1lgve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
